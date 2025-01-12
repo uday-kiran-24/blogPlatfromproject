@@ -11,7 +11,11 @@ Features
 
 Tech Stack
 
-    Frontend: Next.js, React
+    Frontend: Next.js, Reac
+
+https://github.com/user-attachments/assets/e212836d-c4c2-4c06-ab3b-e3e17fd9ea15
+
+t
     Backend: Express.js (or any other preferred back-end framework)
     Markdown Parsing: Marked.js
     Authentication: JWT or session-based authentication
